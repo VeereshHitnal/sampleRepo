@@ -12,6 +12,8 @@ public class DemoTest {
 		System.out.println(URL);
 		System.out.println(BROWSER);
 		System.out.println("Hi there i am using whatsapp");
+		System.out.println("Hi there i am using insta");
+		System.out.println("Hi there i am using Facebook");
 		
 	}
 }
